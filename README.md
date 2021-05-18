@@ -1,5 +1,7 @@
 # ckaa173
 Code by Katherine Ford for doi:10.1093/eurpub/ckaa173
+Please cite this paper when using the code: 
+Ford, K. J., Batty, G. D., & Leist, A. K. (2021). Examining gender differentials in the association of low control work with cognitive performance in older workers. European Journal of Public Health, 31(1), 174-180.
 
 
 Data availability: 
